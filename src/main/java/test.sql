@@ -1,3 +1,5 @@
+ttt
+
 select * from member;
 alter table account drop(seq);
 insert into account(
